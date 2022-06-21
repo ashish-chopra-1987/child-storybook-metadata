@@ -1,0 +1,19 @@
+{
+  "v": 3,
+  "stories": {
+    "task--default": {
+      "id": "task--default",
+      "name": "Default",
+      "title": "Task",
+      "importPath": "./src/stories/Task.stories.js",
+      "kind": "Task",
+      "story": "Default",
+      "parameters": {
+        "fileName": "./src/stories/Task.stories.js",
+        "framework": "react",
+        "__id": "task--default",
+        "__isArgsStory": true
+      }
+    }
+  }
+}
