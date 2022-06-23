@@ -64,7 +64,7 @@
     "webpack": "^5.73.0"
   },
   "storybook": {
-    "title": "UIKit Design System",
-    "url": "https://www.chromatic.com/library?appId=62b1b9ef50b3e0e9a6b8b90f&branch=main"
+    "title": "Child Storybook Example",
+    "url": "https://main--62b1b9ef50b3e0e9a6b8b90f.chromatic.com/stories.json"
   }
 }
